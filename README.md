@@ -2,7 +2,7 @@
 Implementation for the coding challenge
 
 ## TESTING
-I have used junit4 for testing. My main purpose of this unit testing was to check if a valid and invalid case would work. I also checked for the scenario that a file doesn’t exist. Even if a file is not found  since exception handling is present it shouldn’t cause a disruption in the Junit testing.
+I have used junit5 for testing. My main purpose of this unit testing was to check if a valid and invalid case would work. I also checked for the scenario that a file doesn’t exist. Even if a file is not found  since exception handling is present it shouldn’t cause a disruption in the Junit testing.
 
 ## IMPLEMENTATION
 I have used three classes for functional segregation.
